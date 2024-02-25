@@ -1,2 +1,0 @@
-# ericlin
-comm7960
